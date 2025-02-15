@@ -57,3 +57,36 @@ To further improve this Power BI dashboard, the following enhancements can be im
 •	User Access Control: Implement role-based access to show relevant data to different stakeholders.
 
 
+# 📂 Dataset Details
+The dataset used in this Power BI dashboard contains sales-related data from Amazon’s global transactions. It includes multiple attributes that help analyze sales performance, customer behavior, and profitability across different regions and segments.
+Key Attributes:
+•	Order Date & Ship Date – Helps analyze sales trends over time.
+•	Product Category & Subcategory – Categorizes items sold on Amazon.
+•	Sales & Profit – Measures revenue and profitability.
+•	Customer Name & Segment – Identifies target customers (Consumer, Corporate, Home Office).
+•	Market & Region – Provides geographic distribution of sales.
+•	Return Status – Tracks the number of product returns.
+
+
+# 🚧 Challenges Faced & Solutions
+1️⃣ Data Cleaning & Preparation
+Challenge: The dataset contained missing values, duplicate records, and inconsistent formatting.
+Solution: Applied Power BI’s data transformation tools (Power Query) to clean, format, and standardize the data before visualization.
+
+2️⃣ Performance Optimization
+Challenge: Large dataset size led to slow dashboard performance.
+Solution: Used data aggregation, optimized DAX queries, and minimized unnecessary calculations to improve loading speed.
+
+3️⃣ Effective Data Visualization
+Challenge: Choosing the right charts and visuals to communicate insights clearly.
+Solution: Used a mix of pie charts, bar graphs, and maps to represent different types of data while maintaining a user-friendly layout.
+
+4️⃣ Handling Dynamic Data Updates
+Challenge: Data needed to be updated frequently without breaking visuals.
+Solution: Implemented data refresh automation in Power BI to ensure real-time insights.
+
+5️⃣ Dashboard Responsiveness
+Challenge: Ensuring the dashboard was interactive and easy to navigate.
+Solution: Used slicers, filters, and drill-through features to improve usability and user experience.
+
+
