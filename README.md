@@ -39,3 +39,10 @@ This Power BI dashboard provides a comprehensive analysis of Amazon’s global s
 •	Data-Driven Decision Making – Identifies top/bottom products, customer profit trends, and market distribution.
 •	Scalability – Adaptable for various datasets and business needs.
 
+
+# Technologies Used
+This project was built using Microsoft Power BI, a powerful business intelligence tool for data visualization. Power BI was used to:
+•	Import, clean, and transform data.
+•	Create interactive dashboards with dynamic filters.
+•	Provide real-time insights using visual elements like charts, maps, and KPIs.
+
