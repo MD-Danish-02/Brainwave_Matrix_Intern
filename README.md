@@ -8,7 +8,7 @@ This Power BI dashboard, provided by Brainwave Matrix, analyzes sales data for a
 # README: Amazon Global Sales Dashboard
 # Overview:
 This Power BI dashboard provides a comprehensive analysis of Amazon’s global sales performance across different years, segments, and markets. It offers insights into sales projections, product performance, profitability, and regional trends.
-# Key Insights and Features
+# Key Insights 
 •	📈 Sales Projection: Displays estimated revenue trends.
 •	📦 Product Units Sold: Visualizes the total number of units sold.
 •	🔍 Sales by Segment: Breaks down sales into Consumer, Corporate, and Home Office categories.
