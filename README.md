@@ -113,5 +113,6 @@ This repository is organized as follows:
 │── 📂 Images              # Dashboard screenshots & visuals  
 │── 📄 README.md           # Project documentation  
 
-# GitHub Repository: Brainwave Matrix Intern - Power BI Sales Dashboard
+# [**GitHub Repository**](https://github.com/MD-Danish-02/Brainwave_Matrix_Intern/tree/main)
+
 
