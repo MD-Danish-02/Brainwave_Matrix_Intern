@@ -104,5 +104,14 @@ ________________________________________
 •	Additional blogs, articles, and tutorials used for inspiration and problem-solving.
 
 
+# 📁 Repository Structure
+This repository is organized as follows:
 
+📂 PowerBI-Sales-Dashboard  
+│── 📁 Data                # Contains the dataset used for analysis  
+│── 📁 Reports             # Includes Power BI (.pbix) file and insights  
+│── 📂 Images              # Dashboard screenshots & visuals  
+│── 📄 README.md           # Project documentation  
+
+# GitHub Repository: Brainwave Matrix Intern - Power BI Sales Dashboard
 
