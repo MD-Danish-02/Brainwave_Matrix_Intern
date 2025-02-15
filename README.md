@@ -46,3 +46,14 @@ This project was built using Microsoft Power BI, a powerful business intelligenc
 •	Create interactive dashboards with dynamic filters.
 •	Provide real-time insights using visual elements like charts, maps, and KPIs.
 
+
+# Future Enhancements 🚀
+To further improve this Power BI dashboard, the following enhancements can be implemented:
+•	Real-Time Data Integration: Connect the dashboard to live data sources for real-time updates.
+•	Advanced AI-Powered Insights: Use Power BI’s AI capabilities to generate automated trends and forecasts.
+•	Drill-Through Reports: Enable drill-through functionality to allow deeper analysis of specific regions, products, or customer segments.
+•	Custom Visualizations: Integrate more advanced or custom visuals for a richer analytical experience.
+•	Mobile Optimization: Optimize the dashboard layout for better usability on mobile devices.
+•	User Access Control: Implement role-based access to show relevant data to different stakeholders.
+
+
