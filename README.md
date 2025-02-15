@@ -90,3 +90,16 @@ Challenge: Ensuring the dashboard was interactive and easy to navigate.
 Solution: Used slicers, filters, and drill-through features to improve usability and user experience.
 
 
+
+# 🙏 Acknowledgment
+I would like to express my gratitude to:
+•	Microsoft Power BI for providing an excellent tool for data visualization.
+•	Online resources, tutorials, and Power BI communities that helped in learning and troubleshooting.
+•	The creators of the dataset for making the data available for analysis.
+•	Friends, mentors, and peers who provided valuable feedback and suggestions to improve the dashboard.
+________________________________________
+# 📚 References
+•	Power BI Documentation – docs.microsoft.com/power-bi
+•	Power BI Community Forum – community.powerbi.com
+•	Additional blogs, articles, and tutorials used for inspiration and problem-solving.
+
